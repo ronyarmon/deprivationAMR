@@ -1,0 +1,39 @@
+English Indices of Deprivation 2015: File 13 Clinical Commissioning Group Summaries
+
+Document Title: Official Statistics English indices of deprivation 2015
+Description: Statistics on relative deprivation in small areas in England. Further details are provided at the bottom of this page and in the guidance document.
+Published: 30 September 2015
+Documentation: The English Indices of Deprivation 2015 Statistical Release 
+Publisher: Ministry of Housing, Communities & Local Government
+https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
+File name: File_13_ID_2015_Clinical_Commissioning_Group_Summaries.xlsx
+
+The Indices of Deprivation 2015 provide a set of relative measures of deprivation for small areas (Lower-layer Super Output Areas) across England, based on seven domains of deprivation. The domains were combined using the following weights to produce the overall Index of Multiple Deprivation (IMD): Income Deprivation (22.5%), Employment Deprivation (22.5%), Education, Skills and Training Deprivation (13.5%), Health Deprivation and Disability (13.5%), Crime (9.3%), and Barriers to Housing and Services (9.3%) and Living Environment Deprivation (9.3%). Indices are produced for each of the 32,844 Lower-layer Super Output Areas in England, each designed to be of a similar population size, with an average of approximately 1,500 residents or 650 households. They were produced by the Office for National Statistics for the reporting of small area statistics. A range of summary measures are available for higher-level geographies including local authority districts and, as relevant in this study, of Clinical Commissioning Groups (CCGs). 
+
+Clinical Commissioning Groups (CCGs) are NHS organisations set up by the Health and Social Care Act 2012 to organise the delivery of NHS services in England.CCGs have boundaries that are coterminous with those of Lower-Layer Super Output Areas (LSOAs). At the time of publication, there were 209 CCGs. This file contains a range of measures which summarise the Indices of Deprivation 2015 at Clinical Commissioning Group level. The file contains "A range of summary measures are available for higher-level geographies including local authority districts and upper tier local authorities, local enterprise partnerships, and clinical commissioning groups. These summary measures are produced for the overall Index of Multiple Deprivation, each of the seven domains and the supplementary indices." 
+
+The deprivation measure examined in this study is the rank of average score calculated based on the population weighted average of the combined scores for the LSOAs in a larger area. The average score summary measure is calculated by averaging the LSOA scores in each larger area after they have been population weighted. The resultant scores for the larger areas are then ranked, where the rank of 1 (most deprived) is given to the area with the highest score. This gives a measure of the whole area covering both deprived and non-deprived areas. The main difference from the average rank measure described above is that more deprived LSOAs tend to have more ‘extreme’ scores than ranks. So highly deprived areas will not tend to average out to the same extent as when using ranks; highly polarised areas will therefore tend to score higher on the average score measure than on the average rank. On each measure, the CCG with a rank of 1 is the most deprived, and the area ranked 209 is the least deprived.
+
+Income Deprivation Domain
+The Income Deprivation Domain measures the proportion of the population experiencing deprivation relating to low income. The definition of low income used includes both those people that are out-of-work, and those that are in work but who have low earnings (and who satisfy the respective means tests).
+
+Employment Deprivation Domain
+The Employment Deprivation Domain measures the proportion of the working age population in an area involuntarily excluded from the labour market. This includes people who would like to work but are unable to do so due to unemployment, sickness or disability, or caring responsibilities.
+
+Education, Skills and Training Deprivation Domain
+The Education, Skills and Training Deprivation Domain measures the lack of attainment and skills in the local population. The indicators fall into two sub-domains: one relating to children and young people and one relating to adult skills.
+
+Health Deprivation and Disability Domain
+The Health Deprivation and Disability Domain measures the risk of premature death and the impairment of quality of life through poor physical or mental health. The domain measures morbidity, disability and premature mortality but not aspects of behaviour or environment that may be predictive of future health deprivation.
+
+Crime Domain
+The Crime Domain measures the risk of personal and material victimisation at local level.
+
+Barriers to Housing and Services Domain
+The Barriers to Housing and Services Domain measures the physical and financial accessibility of housing and local services. The indicators fall into two sub-domains: ‘geographical barriers’, which relate to the physical proximity of local services, and ‘wider barriers’ which includes issues relating to access to housing such as affordability and homelessness.
+
+Living Environment Deprivation Domain
+The Living Environment Deprivation Domain measures the quality of the local environment. The indicators fall into two sub-domains. The ‘indoors’ living environment measures the quality of housing; while the ‘outdoors’ living environment contains measures of air quality and road traffic accidents.
+
+The Indices of Deprivation 2015 have been published using the Open Government License (OGL) version 3.0, see www.nationalarchives.gov.uk/doc/open-government-licence/version/3/  
+For statistical enquiries, please contact: indices.deprivation@communities.gsi.gov.uk
